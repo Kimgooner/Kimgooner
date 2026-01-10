@@ -3,30 +3,6 @@
 
 ---
 
-팀 프로젝트 #1 - 카페 메뉴 관리 시스템
-
-[깃헙 레포지토리](https://github.com/prgrms-be-devcourse/NBE6-8-1-Thirteam)
-
-[깃험 프로젝트](https://github.com/users/Kimgooner/projects/3)
-
----
-
-팀 프로젝트 #2 - 개인 자산 관리 시스템
-
-[깃헙 레포지토리](https://github.com/prgrms-be-devcourse/NBE6-8-2-Team02)
-
-[깃헙 프로젝트](https://github.com/orgs/prgrms-be-devcourse/projects/235) 
-
----
-
-팀 프로젝트 #3 - 개인 자산 관리 시스템 (팀 프로젝트 #2 Kotlin 마이그레이션)
-
-[깃헙 레포지토리](https://github.com/prgrms-be-devcourse/NBE6-8-3-Team02)
-
-[깃헙 프로젝트](https://github.com/orgs/prgrms-be-devcourse/projects/255) 
-
----
-
-팀 프로젝트 #4 - 사용자 맞춤형 자료 추천과 시각화 아카이빙을 결합한 협업 플랫폼
+proj #1 - 사용자 맞춤형 자료 추천과 시각화 아카이빙을 결합한 협업 플랫폼
 
 [깃헙 레포지토리](https://github.com/prgrms-web-devcourse-final-project/web6_8_zoopzoop_be)
