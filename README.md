@@ -3,6 +3,6 @@
 
 ---
 
-proj #1 - 사용자 맞춤형 자료 추천과 시각화 아카이빙을 결합한 협업 플랫폼
+사용자 맞춤형 자료 추천과 시각화 아카이빙을 결합한 협업 플랫폼
 
 [깃헙 레포지토리](https://github.com/prgrms-web-devcourse-final-project/web6_8_zoopzoop_be)
